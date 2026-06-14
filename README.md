@@ -1,4 +1,3 @@
-[!WARNING]
 ### ★★★ WARNING ★★★
 Untested firmware.
 Email emil.cs07@gmail.com with your test results.
