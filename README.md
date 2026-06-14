@@ -1,3 +1,9 @@
+[!WARNING]
+### ★★★ WARNING ★★★
+Untested firmware.
+Email emil.cs07@gmail.com with your test results.
+
+
 I am uploading the raw source code and the compiled version of the source code in here.
 Use Ubuntu 16.04 for compiling this code.
 All proprietary code is property of Cisco Systems, Inc. provided by their external-opensource-requests@cisco.com team.
