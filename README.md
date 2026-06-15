@@ -8,6 +8,7 @@ Use Ubuntu 16.04 for compiling this code.
 All proprietary code is property of Cisco Systems, Inc. provided by their external-opensource-requests@cisco.com team.
 Based on the source code of Release 1.0.03.26 for RV34X based routers.
 Support for Cisco RV340W only.
+Copy /vendor/rv340_fw_pack.sh to /bin/comcerto2000 for final packaging.
 
 ```
 FROM ubuntu:16.04
